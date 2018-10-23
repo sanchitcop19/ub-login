@@ -1,2 +1,2 @@
-user = 'sanchitb'
+user = ''
 psswd = ''
